@@ -1,3 +1,6 @@
 [submodule "moinworld/themes/hugo-agency-theme"]
 	path = moinworld/themes/hugo-agency-theme
 	url = https://flbaue@github.com/digitalcraftsman/hugo-agency-theme
+[submodule "moinworld/themes/ananke"]
+	path = moinworld/themes/ananke
+	url = https://flbaue@github.com/budparr/gohugo-theme-ananke.git
